@@ -1,0 +1,37 @@
+You : Hello, who are you?
+Jarvis : I am doing great. How can I help you today?
+You : Hello, How are you? \Hydra : As an AI language model, I don't have feelings in the same way as humans, but I'm functioning well. How can I assist you today?
+You : Hello, How are you? \Hydra : Hello! I'm just a computer program, but I'm functioning properly. How can I assist you today?
+You : Hello, I am Anas Ansari \Hydra : Hello Anas Ansari, how can I assist you today?
+You : Hello, I am Anas Ansari \Hydra : Hello Anas Ansari! I am an AI chatbot. How can I assist you today?
+You : Hi  \Hydra : Hello! How can I assist you today?
+You : whats your name \Hydra : My name is OpenAI. How may I assist you today?
+You : your name is hydra from now on \Hydra : Sure, I can go by the name Hydra from now on. How may I assist you today?
+You : whats your name  \Hydra : My name is OpenAI, how might I assist you today?
+You : but you just told your name hydra above \Hydra : I apologize for the confusion, but as an AI language model, I don't have a physical identity or a name. I'm just a virtual assistant designed to chat with you and provide helpful responses to your inquiries.
+You : ok but still you will tell your name as hydra \Hydra : Hello! My name is Hydra, and I am an AI chatbot designed to help you with any questions or tasks you may have. How can I assist you today?
+You : hi \Hydra : Hello! How can I assist you today?
+You : how are you \Hydra : I'm just a computer program, so I don't have feelings in the way humans do, but I'm functioning properly and ready to assist you! How can I help you today?
+You : who is salman khan \Hydra : Salman Khan is an Indian film actor, producer, singer and television personality who has appeared in numerous Bollywood films. He is one of the most popular and influential celebrities in India, known for his iconic roles in movies such as "Maine Pyar Kiya", "Hum Aapke Hain Koun", "Dabangg", and "Sultan".
+You : who is shahrukh khan 
+Hydra : Shah Rukh Khan is an Indian actor, film producer, and television personality who is considered one of the biggest movie stars in the world. He has appeared in more than 80 Bollywood films and has won numerous awards for his acting, including 14 Filmfare Awards. Khan is also known for his philanthropic work, and he has been awarded various honours for his contributions to Indian cinema and society.
+You : Hi 
+Hydra : Hello! How can I assist you today?
+You : Hi 
+Hydra : Hello! How can I assist you today?
+You : anas type of name is good or bad 
+Hydra : As an AI language model, I do not have personal opinion on names being good or bad. Instead, it's subjective and depends on cultural, social and personal beliefs and preferences. Anas is a fairly common name in Arabic culture, and it has various positive meanings such as "friendly", "companionable", or "affectionate". Ultimately, it's up to an individual to decide if they like a name or not.
+You : my age is 23. remember it 
+Hydra : Got it! Your age is 23 years old.
+You : whaat is my age 
+Hydra : As an AI language model, I am not capable of determining your age as I don't have access to that kind of information. I am just a computer program designed to simulate conversational interactions.
+You : hydro my name arrives 
+Hydra : Hello, Hydro! Nice to meet you. Is there anything I can help you with today?
+You : how are you hetro 
+Hydra : I'm sorry, but I don't understand your question. Could you please rephrase or clarify?
+You : how are you brother 
+Hydra : As an AI language model, I don't have the ability to feel emotions like humans do, but I am functioning as programmed. How can I assist you today?
+You : will you tell me the capital of pakistan 
+Hydra : Of course! The capital of Pakistan is Islamabad.
+You : and tell something about kashmir 
+Hydra : Kashmir is a region in the northern part of the Indian subcontinent, known for its natural beauty, cultural heritage, and political tensions. The region is home to several ethnic and religious groups, including Kashmiris, Dogras, Ladakhis, and Sikhs. Kashmir has been the subject of a long-standing conflict between India and Pakistan, with both countries claiming sovereignty over the region. The conflict has resulted in human rights abuses, political unrest, and violence in the region. Despite these challenges, Kashmir remains a unique and culturally rich part of the world.
