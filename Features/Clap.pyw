@@ -109,5 +109,5 @@ def Tester():
             # return "True-Mic"
             break
 
-Tester()
+# Tester()
 # Tester() #to detect the clap

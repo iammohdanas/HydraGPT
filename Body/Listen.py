@@ -8,7 +8,7 @@ def Listen():
     with sr.Microphone() as source:
         print("Listening...")
         r.pause_threshold = 1
-        audio = r.listen(source,0,3)
+        audio = r.listen(source,10,3)
 
     try:
         print("Recognizing...")
@@ -27,6 +27,7 @@ def TranslationHintoEng(Text):
     translate = Translator()
     result = translate.translate(line)
     data = result.text
+    data = data.lower()
     print(f"You : {data}.")
     return data
 
@@ -36,4 +37,5 @@ def MicExecution():
     data = TranslationHintoEng(query)
     return data
 
-# MicExecution()
+
+# print(MicExecution())

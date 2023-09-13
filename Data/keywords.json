@@ -1,0 +1,15 @@
+
+{
+    "intents":[
+        {
+            "tag":"opennotepad",
+            "patterns":["open notepad" , "open text editor" , "notepad open"
+            ]
+        },
+        {
+            "tag":"closenotepad",
+            "patterns":["close notepad" , "close text editor"
+            ]
+        }
+    ]
+}

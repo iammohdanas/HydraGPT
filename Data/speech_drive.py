@@ -1,0 +1,15 @@
+def speech_queries():
+        txt=['open notepad','open text editor','notepad open']
+        wb=['open chrome','open web browser','open google chrome']
+        tm=['time kya ho raha hai',"what's the time","could you please tell me the time",'time batao parker']
+        msc=['play songs','play music','open songs','songs lagaao','songs open karo','songs play','music play']
+        ipadd=['ip address batao','tell me the ip address','get ip address']
+        wik=['search in wikipedia','wikipedia pe search','wikipedia open','open wikipedia']
+        yt = ['youtube kholo','open youtube','youtube open','kholo youtube','start youtube','start youtube']
+        email=['email send karo','send the email','send email','email send','write email']
+        exit= ['bye parker','tata parker','no thanks parker','exit parker','nahi bas itna hi tha jaa sakte ho']
+        alrm=['alarm set','set the alarm','set alarm','alarm lagao']
+        sys_shutdown=['system shutdown kardo','shutdown the system','shutdown kardo system','system shutdown karo','shutdown karo system']
+        sys_restart = ['system restart kardo','restart the system','restart kardo system','system restart karo','restart karo system']
+        clstxt=['close notepad','notepad close','close kardo notepad','notepad close kardo']
+        return txt,wb,tm,msc,ipadd,wik,yt,email,exit,alrm,sys_shutdown,sys_restart,clstxt
