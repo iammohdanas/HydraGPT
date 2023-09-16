@@ -12,10 +12,8 @@ datetime==4.3
 cycler==0.11.0
 
 googletrans==4.0.0rc1
-gTTS==2.3.1
 
 numpy==1.24.2
-openai==0.27.2
 
 pandas==1.5.3
 
@@ -26,3 +24,4 @@ pywhatkit==5.4
 streamlit==1.26.0
 
 timedelta==2020.12.3
+gtts
