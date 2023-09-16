@@ -6,8 +6,8 @@ import sys
 import webbrowser
 from requests import get
 from Automations.translator import langtranslator
-# from Automations.whatsapp import sendWhatsappMsg
-# from Automations.youtube import openyoutube
+from Automations.whatsapp import sendWhatsappMsg
+from Automations.youtube import openyoutube
 from Arms.heart import predictHeartDisease
 from Arms.bmrcalculator import bmrCalculate
 from Brain.AIBrain import ReplyBrain
@@ -54,10 +54,10 @@ def MainExecution():
             print(ip)
     elif 'open facebook' in Data:
         webbrowser.open('wwww.facebook.com')
-    # elif "open youtube" in Data:
-    #         openyoutube()
-    # elif "whatsapp" in Data:
-    #     sendWhatsappMsg()
+    elif "open youtube" in Data:
+            openyoutube()
+    elif "whatsapp" in Data:
+        sendWhatsappMsg()
     elif "use translator" in Data:
             langtranslator()
             pass
